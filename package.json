@@ -16,11 +16,6 @@
 		"name": "William Kapke",
 		"email": "william.kapke@gmail.com"
 	},
-	"devDependencies": {
-		"concat-stream": "^2.0.0",
-		"mdns": "^2.5.1",
-		"pdfkit": "^0.11.0"
-	},
 	"main": "ipp.js",
 	"engines": {
 		"node": "<4.0.0"
